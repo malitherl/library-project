@@ -1,0 +1,23 @@
+00:00:00.462502 VirtualBox GUI VM Selector Window 6.1.22 r144080 win.amd64 (Apr 28 2021 17:23:11) release log
+00:00:00.462504 Log opened 2021-05-26T02:39:32.308625900Z
+00:00:00.462505 Build Type: release
+00:00:00.462507 OS Product: Windows 10
+00:00:00.462508 OS Release: 10.0.18363
+00:00:00.462509 OS Service Pack: 
+00:00:00.474051 DMI Product Name: Aspire GX-281
+00:00:00.477574 DMI Product Version:         
+00:00:00.477589 Firmware type: UEFI
+00:00:00.477774 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.477792 Host RAM: 8126MB (7.9GB) total, 4474MB (4.3GB) available
+00:00:00.477796 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.477796 Process ID: 468
+00:00:00.477797 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.477993 Qt version: 5.6.2
+00:00:00.488802 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.967132 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:15.583742 GUI: UIMediumEnumerator: Medium with key={{d07e737e-7d64-4b48-b4f2-7253bd70cf59}} created
+00:12:15.770384 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:11.404901 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:12.193277 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:12.236130 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:21.799470 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
